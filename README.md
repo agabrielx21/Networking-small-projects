@@ -3,7 +3,7 @@
 
 ## Server DNS Add Blocker
 
-## ARP Spoofing (2p)
+## ARP Spoofing
 ARP spoofing presupune trimiterea unui pachet ARP de tip reply către o țintă pentru a o informa greșit cu privire la adresa MAC pereche pentru un IP.
 
 Arhitectura containerelor este definită aici, împreună cu schema prin care `middle` îi informează pe `server` și pe `router` cu privire la locația fizică (adresa MAC) unde se găsesc IP-urile celorlalți. 
