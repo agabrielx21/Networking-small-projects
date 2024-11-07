@@ -1,0 +1,14 @@
+China:
+City: Beijing
+Region: Beijing
+Country: CN
+
+Africa de Sud:
+City: Cape Town
+Region: Western Cape
+Country: ZA
+
+Australia:
+City: Sydney
+Region: New South Wales
+Country: AU
